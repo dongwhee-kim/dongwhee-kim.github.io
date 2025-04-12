@@ -53,7 +53,6 @@
         - DRAM Rowhammer Prevention Algorithm
         - Implemented refresh algorithms against various DRAM row access patterns while minimizing read disturbance and power consumption.
 
-
     - title: Auxiliary Police
       institution: Korean National Police Agency
       year: 2017.04 - 2018.12
