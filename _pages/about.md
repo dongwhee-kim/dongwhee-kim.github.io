@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: /assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dongwhee.kim@utexas.edu</p>
@@ -29,5 +29,3 @@ Hello,
 I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at The University of Texas at Austin. My research interests center on improving the reliability of quantum computers and memory systems within computer architecture.
 
 Prior to joining UT Austin, I worked as an HBM I/O Circuit Design Engineer at Samsung Electronics and obtained both my B.S. and M.S. degrees from Sungkyunkwan University in South Korea.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
