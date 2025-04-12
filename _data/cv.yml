@@ -12,25 +12,25 @@
       year: 2025.09
       description:
         - Electrical and Computer Engineering
-        - Advisor: Prof. Poulami Das
-        - title: Research Topics
-          contents:
-            - Computer Architecture
-            - Quantum Computing
-            - Memory Systems
-            - Reliability
+          #- Advisor: Prof. Poulami Das
+          #- title: Research Topics
+          #contents:
+          #- Computer Architecture
+          #- Quantum Computing
+          #- Memory Systems
+          #- Reliability
     - title: M.S.
       institution: Sungkyunkwan University
       year: 2022.02-2024.02
       description:
         - Semiconductor and Display Engineering
-        - Advisor: Prof. Jungrae Kim
-        - title: Research Topics
-          contents:
-            - Computer Architecture
-            - Memory Systems
-            - Reliability
-            - Microarchitecture
+          #- Advisor: Prof. Jungrae Kim
+          #- title: Research Topics
+          #contents:
+          #- Computer Architecture
+          #- Memory Systems
+          #- Reliability
+          #- Microarchitecture
     - title: B.S.
       institution: Sungkyunkwan University
       year: 2016.03-2022.02
