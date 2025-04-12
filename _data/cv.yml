@@ -46,6 +46,14 @@
       description:
         - HBM I/O Circuit Design
         - Analyzed HBM I/O Training Sequence and Eye Shmoo to handle I/O related issues such as Rx/Tx margin and Duty Cycle Adjuster (DCA) for stabilized memory systems.
+    - title: Summer Internship
+      institution: Memory Division, Samsung Electronics
+      year: 2021.07 - 2021.08
+      description:
+        - DRAM Rowhammer Prevention Algorithm
+        - Implemented refresh algorithms against various DRAM row access patterns while minimizing read disturbance and power consumption.
+
+
     - title: Auxiliary Police
       institution: Korean National Police Agency
       year: 2017.04 - 2018.12
