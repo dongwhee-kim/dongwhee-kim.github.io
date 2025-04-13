@@ -43,15 +43,18 @@
     - title: Engineer
       institution: Memory Division, Samsung Electronics
       year: 2024.03 - 2025.05
-      description:
-        - HBM I/O Circuit Design
-        - Analyzed HBM I/O Training Sequence and Eye Shmoo to handle I/O related issues such as Rx/Tx margin and Duty Cycle Adjuster (DCA) for stabilized memory systems.
+      description: Analyzed HBM I/O for stabilized memory systems.
+      items:
+        - HBM I/O Training Sequence
+        - Eye Shmoo
+        - Rx/Tx margin
+        - Duty Cycle Adjuster (DCA)
     - title: Summer Internship
       institution: Memory Division, Samsung Electronics
       year: 2021.07 - 2021.08
-      description:
-        - DRAM Rowhammer Prevention Algorithm
-        - Implemented refresh algorithms against various DRAM row access patterns while minimizing read disturbance and power consumption.
+      description: Implemented refresh algorithms against various DRAM row access patterns.
+        - Rowhammer
+        - Read disturbance
 
     - title: Auxiliary Police
       institution: Korean National Police Agency
@@ -64,7 +67,7 @@
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: A beautiful, simple, clean, and responsive Jekyll.
 
 - title: Honors and Awards
   type: time_table
