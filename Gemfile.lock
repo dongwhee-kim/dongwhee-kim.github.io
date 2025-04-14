@@ -204,6 +204,8 @@ GEM
     rexml (3.4.1)
     rouge (4.5.1)
     safe_yaml (1.0.5)
+    sass (3.7.4)
+      listen (~> 3.0)
     sass-embedded (1.69.5)
       google-protobuf (~> 3.23)
       rake (>= 13.0.0)
@@ -251,6 +253,7 @@ DEPENDENCIES
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-regex-replace
+  jekyll-sass-converter
   jekyll-scholar
   jekyll-sitemap
   jekyll-tabs
@@ -260,6 +263,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  sass (~> 3.7)
 
 BUNDLED WITH
    2.5.23

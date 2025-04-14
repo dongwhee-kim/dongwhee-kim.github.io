@@ -14,6 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
+    gem 'jekyll-sass-converter' # used for sass update
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
@@ -23,6 +24,8 @@ group :jekyll_plugins do
     gem 'jemoji'
 
     gem 'classifier-reborn'  # used for content categorization during the build
+    gem 'sass', '~> 3.7'
+    # gem 'sass-color-functions' # used for color.channel in _sass/_themes.scss
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)

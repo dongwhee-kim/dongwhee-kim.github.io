@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-20 14:37:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I have been admitted to the Ph.D. program in Electrical and Computer Engineering (ECE) at UT Austin!

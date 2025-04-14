@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dongwhee.kim@utexas.edu</p>
+    <p><a href="https://github.com/dongwhee-kim/dongwhee-kim.github.io/raw/main/assets/pdf/CV%20(Curriculum%20Vitae)_Ph.D.%20Applicant.pdf" target="_blank">Curriculum Vitae (Ph.D. Applicant)</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +27,6 @@ latest_posts:
 ---
 
 Hello,
-I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at The University of Texas at Austin (Advisor: Prof. Poulami Das). My research interests lie on improving the reliability of quantum computers and memory systems within computer architecture.
+I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at The University of Texas at Austin (Advisor: [Prof. Poulami Das](https://www.poulamidas.com)). My research interests lie on improving the reliability of quantum computers and memory systems within computer architecture.
 
-Prior to joining UT Austin, I worked as an HBM I/O Circuit Design Engineer at Samsung Electronics and obtained both my B.S. and M.S. degrees from Sungkyunkwan University in South Korea (Advisor: Prof. Jungrae Kim).
+Prior to joining UT Austin, I worked as an HBM I/O Circuit Design Engineer at Samsung Electronics and obtained both my B.S. and M.S. degrees from Sungkyunkwan University in South Korea (Advisor: [Prof. Jungrae Kim](https://scalable-arch.github.io)).
