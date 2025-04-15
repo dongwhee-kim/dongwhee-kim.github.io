@@ -14,24 +14,22 @@ h1 {
 }
 </style>
 
-
 ## Conferene & Journal Papers
 
 ### 2025
- - **PoP-ECC: Robust and Flexible Error Correction against Multi-Bit Upsets in DNN Accelerators**<br>
-   Taewon Park, Saeid Gorgin, **Dongwhee Kim**, Jaeho Shin, Michael Sullivan, and Jungrae Kim 
-   Design Automation Conference (**DAC**), acceptance rate = 23%, June. 2025
 
-   
+- **PoP-ECC: Robust and Flexible Error Correction against Multi-Bit Upsets in DNN Accelerators**<br>
+  Taewon Park, Saeid Gorgin, **Dongwhee Kim**, Jaeho Shin, Michael Sullivan, and Jungrae Kim
+  Design Automation Conference (**DAC**), acceptance rate = 23%, June. 2025
 
 ### 2024
 
-
 ### 2023
- - **Unity ECC: Unified memory protection against bit and chip errors**<br>
-   **Dongwhee Kim**, Jaeyoon Lee, Wonyeong Jung, Michael Sullivan, and Jungrae Kim<br>
-   The International Conference on High Performance Computing, Networking, Storage and Analysis (**SC**), acceptance rate = 24%, Nov. 2023<br>
-   **Best Student Paper Nominee**
+
+- **Unity ECC: Unified memory protection against bit and chip errors**<br>
+  **Dongwhee Kim**, Jaeyoon Lee, Wonyeong Jung, Michael Sullivan, and Jungrae Kim<br>
+  The International Conference on High Performance Computing, Networking, Storage and Analysis (**SC**), acceptance rate = 24%, Nov. 2023<br>
+  **Best Student Paper Nominee**
 
 <details>
   <summary>📄 BIB</summary>
@@ -51,10 +49,10 @@ h1 {
 </a>
 
 <!--[![SLIDES](https://img.shields.io/badge/Slides-Click%20Here-yellow)](https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/tree/main/assets/pdf/SC23_Unity-ECC_Presentation.pdf)-->
+
 [![POSTER](https://img.shields.io/badge/Poster-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/tree/main/assets/pdf/SAIF23_Unity-ECC_Poster.pdf)
 [![CODE](https://img.shields.io/badge/Code-Click%20Here-blue)](https://github.com/dongwhee-kim/ECC-exercise/tree/main/02_Application/02_DDR5_ODECC_RLECC)
 
 ### 2022
-
 
 ## Patents
