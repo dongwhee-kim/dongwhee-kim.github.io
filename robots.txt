@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/dongwhee-kim/dongwhee-kim.github.io/sitemap.xml
+Sitemap: https://dongwhee-kim.github.io/sitemap.xml
