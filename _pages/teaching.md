@@ -17,11 +17,11 @@ h1 {
 
 <!-- _pages/teaching.md -->
 
-## The University of Texas at Austin
+## **The University of Texas at Austin**
 
 - **Update later**
 
-## Sungkyunkwan University
+## **Sungkyunkwan University**
 
 - Digital System Design (Spring 2022) [SSE3016-41]
 - AI Basics & Uses (Spring 2021) [GEDT020-I1]
