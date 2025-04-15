@@ -14,7 +14,6 @@ h1 {
 }
 </style>
 
-
 <!-- _pages/research.md -->
 
 <!-- Bibsearch Feature -->
