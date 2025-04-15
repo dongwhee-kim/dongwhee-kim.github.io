@@ -14,7 +14,7 @@ h1 {
 }
 </style>
 
-## Conferene & Journal Papers
+## **Conferene & Journal Papers**
 
 ### 2025
 
@@ -22,37 +22,283 @@ h1 {
   Taewon Park, Saeid Gorgin, **Dongwhee Kim**, Jaeho Shin, Michael Sullivan, and Jungrae Kim
   Design Automation Conference (**DAC**), acceptance rate = 23%, June. 2025
 
-### 2024
+<div style="margin-left: 2em;">
 
+  <details>
+    <summary>📄 BIB</summary>
+
+    <pre><code>@inproceedings{park2025popecc,
+
+title={PoP-ECC: Robust and Flexible Error Correction against Multi-Bit Upsets in DNN Accelerators},
+author={Park, Taewon and Gorgin, Saeid and Kim, Dongwhee and Shin, Jaeho and Sullivan, Michael and Kim, Jungrae},
+booktitle={2025 62th ACM/IEEE Design Automation Conference (DAC)},
+pages={1--6},
+year={2025},
+organization={IEEE}
+}
+</code></pre>
+
+  </details>
+
+</div>
+
+<br>
+### 2024
+- **SELCC: Enhancing MLC Reliability and Endurance with Single Cell Error Correction Codes**<br>
+  Yujin Lim, **Dongwhee Kim**, and Jungrae Kim<br>
+  The Design, Automation and Test in Europe Conference (**DATE**), acceptance rate = 25%, March. 2024<br>
+  <span style="color: blue; font-weight: bold;">Best Paper Award</span>
+
+<div style="margin-left: 2em;">
+
+  <details>
+    <summary>📄 BIB</summary>
+
+    <pre><code>@inproceedings{lim2024selcc,
+
+title={SELCC: Enhancing MLC Reliability and Endurance with Single-Cell Error Correction Codes},
+author={Lim, Yujin and Kim, Dongwhee and Kim, Jungrae},
+booktitle={2024 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+pages={1--6},
+year={2024},
+organization={IEEE}
+}</code></pre>
+
+  </details>
+
+  <a href="https://ieeexplore.ieee.org/document/10546752">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/DATE24_SELCC_Slides.pdf" download>
+    <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/DATE24_SELCC_Poster.pdf" download>
+    <img src="https://img.shields.io/badge/Poster-Click%20Here-brightgreen" alt="POSTER">
+  </a>
+</div>
+
+- **Agile-DRAM: Agile Trade-Offs in Memory Capacity, Latency, and Energy for Data Centers**<br>
+  Jaeyoon Lee, Wonyeong Jung, **Dongwhee Kim**, Daero Kim, Junseung Lee, and Jungrae Kim<br>
+  The IEEE International Symposium on High Performance Computer Architecture (**HPCA**), acceptance rate = 18%, March. 2024
+
+<div style="margin-left: 2em;">
+
+  <details>
+    <summary>📄 BIB</summary>
+
+    <pre><code>@inproceedings{lee2024agile,
+      title={Agile-DRAM: Agile Trade-Offs in Memory Capacity, Latency, and Energy for Data Centers},
+      author={Lee, Jaeyoon and Jung, Wonyeong and Kim, Dongwhee and Kim, Daero and Lee, Junseung and Kim, Jungrae},
+      booktitle={2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA)},
+      pages={1141--1153},
+      year={2024},
+      organization={IEEE}
+    }</code></pre>
+
+  </details>
+
+  <a href="https://ieeexplore.ieee.org/abstract/document/10476434?casa_token=liZnjAWWwHYAAAAA:AUNgLDe7OHUhUzr0AxQ3BW_iZ7SnUUOOGfkCihmaNhig7zXC76iJ5Cm3TZv96-tKxpYJidrB">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/HPCA24_Agile-DRAM_Slides.pdf" download>
+    <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/HPCA24_Agile-DRAM_Poster.pdf" download>
+    <img src="https://img.shields.io/badge/Poster-Click%20Here-brightgreen" alt="POSTER">
+  </a>
+</div>
+
+<br>
 ### 2023
 
-- **Unity ECC: Unified memory protection against bit and chip errors**<br>
+- **Unity ECC: Unified Memory Protection Against Bit and Chip Errors**<br>
   **Dongwhee Kim**, Jaeyoon Lee, Wonyeong Jung, Michael Sullivan, and Jungrae Kim<br>
   The International Conference on High Performance Computing, Networking, Storage and Analysis (**SC**), acceptance rate = 24%, Nov. 2023<br>
-  **Best Student Paper Nominee**
+  <span style="color: blue; font-weight: bold;">Best Student Paper Nominee</span>
 
-<details>
-  <summary>📄 BIB</summary>
+<div style="margin-left: 2em;">
+  <details>
+    <summary>📄 BIB</summary>
+    <pre><code>@inproceedings{kim2023unity,
+  title={Unity ECC: Unified memory protection against bit and chip errors},
+  author={Kim, Dongwhee and Lee, Jaeyoon and Jung, Wonyeong and Sullivan, Michael and Kim, Jungrae},
+  booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+  pages={1--16},
+  year={2023}
+}
+</code></pre>
+  </details>
 
-  <pre><code>@inproceedings{kim2023unity,
-  	title={Unity ECC: Unified memory protection against bit and chip errors},
-  	author={Kim, Dongwhee and Lee, Jaeyoon and Jung, Wonyeong and Sullivan, Michael and Kim, Jungrae},
-  	booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
-  	pages={1--16},
-  	year={2023}
-	}
+  <a href="https://dl.acm.org/doi/10.1145/3581784.3607081">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/SC23_Unity-ECC_Presentation.pdf" download>
+    <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/SAIF23_Unity-ECC_Poster.pdf" download>
+    <img src="https://img.shields.io/badge/Poster-Click%20Here-228B22" alt="POSTER">
+  </a>
+  <a href="https://github.com/dongwhee-kim/ECC-exercise/tree/main/02_Application/02_DDR5_ODECC_RLECC">
+    <img src="https://img.shields.io/badge/Code-Click%20Here-blue" alt="CODE">
+  </a>
+  <a href="https://research.nvidia.com/publication/2023-11_unity-ecc-unified-memory-protection-against-bit-and-chip-errors">
+    <img src="https://img.shields.io/badge/NVIDIA_RESEARCH-Click%20Here-006400" alt="NVIDIA RESEARCH">
+  </a>
+</div>
+
+- **Synergistic Integration: An Optimal Combination of On-Die and Rank-Level ECC for Enhanced Reliability**<br>
+  Wonyeong Jung, **Dongwhee Kim**, and Jungrae Kim<br>
+  The 20th International SoC Conference (ISOCC), Oct. 2023<br>
+
+<div style="margin-left: 2em;">
+
+  <details>
+    <summary>📄 BIB</summary>
+
+    <pre><code>@inproceedings{jung2023synergistic,
+
+title={Synergistic Integration: An Optimal Combination of On-Die and Rank-Level ECC for Enhanced Reliability},
+author={Jung, Wonyeong and Kim, Dongwhee and Kim, Jungrae},
+booktitle={2023 20th International SoC Design Conference (ISOCC)},
+pages={305--306},
+year={2023},
+organization={IEEE}
+}
+</code></pre>
+
+  </details>
+
+  <a href="https://ieeexplore.ieee.org/abstract/document/10396592">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a> 
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/ISOCC23_Synergistic_Integration_Poster.pdf" download>
+    <img src="https://img.shields.io/badge/Poster-Click%20Here-brightgreen" alt="POSTER">
+  </a>
+</div>
+
+- **SCC: Efficient Error Correction Codes for MLC PCM**<br>
+  Yujin Lim, **Dongwhee Kim**, and Jungrae Kim<br>
+  The 20th International SoC Conference (ISOCC), Oct. 2023<br>
+
+<div style="margin-left: 2em;">
+
+  <details>
+    <summary>📄 BIB</summary>
+
+    <pre><code>@inproceedings{lim2023scc,
+
+title={SCC: Efficient Error Correction Codes for MLC PCM},
+author={Lim, Yujin and Kim, Dongwhee and Kim, Jungrae},
+booktitle={2023 20th International SoC Design Conference (ISOCC)},
+pages={303--304},
+year={2023},
+organization={IEEE}
+}
+</code></pre>
+
+  </details>
+
+  <a href="https://ieeexplore.ieee.org/abstract/document/10396372">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a> 
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/ISOCC23_SCC_Poster.pdf" download>
+    <img src="https://img.shields.io/badge/Poster-Click%20Here-brightgreen" alt="POSTER">
+  </a>
+</div>
+
+- **EPA ECC : Error-Pattern-Aligned ECC for HBM2E**<br>
+  Kiheon Kwon, **Dongwhee Kim**, Soyoung Park, and Jungrae Kim<br>
+  The International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), June. 2023<br>
+
+<div style="margin-left: 2em;">
+  <details>
+    <summary>📄 BIB</summary>
+    <pre><code>@inproceedings{kwon2023epa,
+  title={EPA ECC: Error-Pattern-Aligned ECC for HBM2E},
+  author={Kwon, Kiheon and Kim, Dongwhee and Park, Soyoung and Kim, Jungrae},
+  booktitle={2023 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+  }
   </code></pre>
-</details>
-[![PDF](https://img.shields.io/badge/PDF-Click%20Here-red)](https://dl.acm.org/doi/10.1145/3581784.3607081)
-<a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/SC23_Unity-ECC_Presentation.pdf" download>
-  <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
-</a>
+  </details>
 
-<!--[![SLIDES](https://img.shields.io/badge/Slides-Click%20Here-yellow)](https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/tree/main/assets/pdf/SC23_Unity-ECC_Presentation.pdf)-->
+  <a href="https://ieeexplore.ieee.org/abstract/document/10212882">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/ITC-CSCC23_EPA_ECC_Slides.pdf" download>
+    <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
+  </a>
+</div>
 
-[![POSTER](https://img.shields.io/badge/Poster-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/tree/main/assets/pdf/SAIF23_Unity-ECC_Poster.pdf)
-[![CODE](https://img.shields.io/badge/Code-Click%20Here-blue)](https://github.com/dongwhee-kim/ECC-exercise/tree/main/02_Application/02_DDR5_ODECC_RLECC)
+- **DNN Retraining Method Reducing Accuracy Degradation in Packet-Lossy Environments**<br>
+  **Dongwhee Kim\***, Yujin Lim\*, Syngha Han, and Jungrae Kim<br>
+  Journal of KIISE, Journal, March. 2023<br> \* Joint First Authors
 
+<div style="margin-left: 2em;">
+  <details>
+    <summary>📄 BIB</summary>
+    <pre><code>@article{김동휘2023패킷,
+  title={패킷 손실 환경에서 정확도 감소를 줄이는 심층 신경망 재학습 방법},
+  author={김동휘 and 임유진 and 한승하 and 김정래},
+  journal={Journal of KIISE},
+  volume={50},
+  number={3},
+  pages={285--293},
+  year={2023}
+}
+  </code></pre>
+  </details>
+
+  <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11225038">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+</div>
+
+<br>
 ### 2022
+- **YOCO: Unified and Efficient Memory Protection for High Bandwidth Memory**<br>
+  **Dongwhee Kim** and Jungrae Kim<br>
+  The International SoC Conference (ISOCC), Oct. 2022<br>
 
-## Patents
+<div style="margin-left: 2em;">
+  <details>
+    <summary>📄 BIB</summary>
+    <pre><code>@inproceedings{kim2022yoco,
+  title={YOCO: Unified and Efficient Memory Protection for High Bandwidth Memory},
+  author={Kim, Dongwhee and Kim, Jungrae},
+  booktitle={2022 19th International SoC Design Conference (ISOCC)},
+  pages={37--38},
+  year={2022},
+  organization={IEEE}
+}  
+    </code></pre>
+  </details>
+
+  <a href="https://ieeexplore.ieee.org/abstract/document/10031395">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/ISOCC22_YOCO_Slides.pdf" download>
+    <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
+  </a>
+</div>
+
+<br><br><br>
+
+## **Patents**
+
+- **METHOD AND APPARATUS FOR GENERATING CODE FOR SINGLE SYMBOL ERROR CORRECTION AND DOUBLE ERROR CORRECTION**<br>
+  Jungrae Kim and **Dongwhee Kim**<br>
+  KR Patent (10-2656075), Apr. 2024<br>
+
+<div style="margin-left: 2em;">
+
+  <a href="https://doi.org/10.8080/1020230078765">
+    <img src="https://img.shields.io/badge/PATENT-Click%20Here-800080" alt="PATENT">
+  </a>
+</div>
+
+- **CODE GENERATION METHOD, ERROR CORRECTION CODE GENERATION APPARATUS, AND STORAGE MEDIUM STORING INSTRUCTIONS TO PERFORM CODE GENERATION METHOD (Pending)**<br>
+  Jungrae Kim and **Dongwhee Kim**<br>
+  US Patent (18/506,336), Nov. 2023<br>
