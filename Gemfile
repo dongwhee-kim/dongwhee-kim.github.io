@@ -25,6 +25,7 @@ group :jekyll_plugins do
 
     gem 'classifier-reborn'  # used for content categorization during the build
     gem 'sass', '~> 3.7'
+    gem "sass-listen", "~> 4.0"
     # gem 'sass-color-functions' # used for color.channel in _sass/_themes.scss
 end
 
