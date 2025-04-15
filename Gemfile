@@ -15,7 +15,7 @@ group :jekyll_plugins do
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
     gem 'jekyll-sass-converter' # used for sass update
-    gem 'jekyll-scholar'
+    # gem 'jekyll-scholar' # related to publications (bibtex method)
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
