@@ -19,8 +19,8 @@ h1 {
 ### 2025
 
 - **PoP-ECC: Robust and Flexible Error Correction against Multi-Bit Upsets in DNN Accelerators**<br>
-  Taewon Park, Saeid Gorgin, **Dongwhee Kim**, Jaeho Shin, Michael Sullivan, and Jungrae Kim
-  Design Automation Conference (**DAC**), acceptance rate = 23%, June. 2025
+  Taewon Park, Saeid Gorgin, **Dongwhee Kim**, Jaeho Shin, Michael Sullivan, and Jungrae Kim<br>
+  Design Automation Conference (**DAC**), acceptance rate = 23%, June. 2025<br>
 
 <div style="margin-left: 2em;">
 
@@ -83,7 +83,7 @@ organization={IEEE}
 
 - **Agile-DRAM: Agile Trade-Offs in Memory Capacity, Latency, and Energy for Data Centers**<br>
   Jaeyoon Lee, Wonyeong Jung, **Dongwhee Kim**, Daero Kim, Junseung Lee, and Jungrae Kim<br>
-  The IEEE International Symposium on High Performance Computer Architecture (**HPCA**), acceptance rate = 18%, March. 2024
+  The IEEE International Symposium on High Performance Computer Architecture (**HPCA**), acceptance rate = 18%, March. 2024<br>
 
 <div style="margin-left: 2em;">
 
