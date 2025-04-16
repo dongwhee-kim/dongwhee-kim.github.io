@@ -28,7 +28,10 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 70%;
+  width: 50vw !important; // Added
+  max-width: 50vw !important; /* default: 70% */
+  margin-left: auto; // Added
+  margin-right: auto; // Added
   /*
   max-width: $max-content-width;
   */
@@ -39,6 +42,20 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+}
+
+// Added 1 (fix text width)
+.page-content {
+  max-width: 50vw; // width 50%
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Added 2 (fix image width)
+img.profile {
+  width: 200px;
+  height: auto;
+  max-width: none;
 }
 
 // TODO: redefine content layout.

@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dongwhee.kim@utexas.edu</p>
-    <p><a href="https://github.com/dongwhee-kim/dongwhee-kim.github.io/raw/main/assets/pdf/CV%20(Curriculum%20Vitae)_Ph.D.%20Applicant.pdf" target="_blank">Curriculum Vitae (Ph.D. Applicant)</a></p>
+    <p><a href="https://github.com/dongwhee-kim/dongwhee-kim.github.io/raw/main/assets/pdf/CV_Curriculum-Vitae_Ph.D._Applicant.pdf" target="_blank">Curriculum Vitae (Ph.D. Applicant)</p>
+    <p><a href="https://github.com/dongwhee-kim/dongwhee-kim.github.io/raw/main/assets/pdf/CV_Curriculum-Vitae_Current.pdf" target="_blank">Curriculum Vitae (Current)</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

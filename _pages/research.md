@@ -75,6 +75,10 @@ organization={IEEE}
   <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/DATE24_SELCC_Poster.pdf" download>
     <img src="https://img.shields.io/badge/Poster-Click%20Here-brightgreen" alt="POSTER">
   </a>
+  <a href="https://github.com/scalable-arch/DATE_24-SELCC">
+    <img src="https://img.shields.io/badge/Code-Click%20Here-blue" alt="CODE">
+  </a>
+
 </div>
 
 - **Agile-DRAM: Agile Trade-Offs in Memory Capacity, Latency, and Energy for Data Centers**<br>
@@ -294,7 +298,7 @@ organization={IEEE}
 
 <div style="margin-left: 2em;">
 
-  <a href="https://doi.org/10.8080/1020230078765">
+  <a href="https://patents.google.com/patent/KR102656075B1/en?inventor=jungrae+kim">
     <img src="https://img.shields.io/badge/PATENT-Click%20Here-800080" alt="PATENT">
   </a>
 </div>
