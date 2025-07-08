@@ -39,6 +39,10 @@ organization={IEEE}
 </code></pre>
 
   </details>
+  <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/DAC25_PoP-ECC_Slides.pdf" download>
+    <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
+  </a>
+
 
 </div>
 
