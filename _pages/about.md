@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>**dongwhee**[dot]**kim**[at]**utexas**[dot]**edu**</p>
+    <p><strong>dongwhee</strong>[dot]<strong>kim</strong>[at]<strong>utexas</strong>[dot]<strong>edu</strong></p>
     <p><a href="https://github.com/dongwhee-kim/dongwhee-kim.github.io/raw/main/assets/pdf/CV_Curriculum-Vitae_Current.pdf" target="_blank">Curriculum Vitae (Current)</p>
     <p><a href="https://github.com/dongwhee-kim/dongwhee-kim.github.io/raw/main/assets/pdf/CV_Curriculum-Vitae_Ph.D._Applicant.pdf" target="_blank">Curriculum Vitae (Ph.D. Applicant)</a></p>
 
