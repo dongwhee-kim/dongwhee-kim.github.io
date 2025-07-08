@@ -43,7 +43,6 @@ organization={IEEE}
     <img src="https://img.shields.io/badge/Slides-Click%20Here-yellow" alt="SLIDES">
   </a>
 
-
 </div>
 
 <br>
