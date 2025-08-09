@@ -268,6 +268,7 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 - $ sudo apt install ruby-dev
 - $ bundle install
 - (**Local Execution**) $ bundle exec jekyll serve
+- (**Yml Formatting Error Cases**) $ npx prettier --write
 
 ## Installing and Deploying
 
