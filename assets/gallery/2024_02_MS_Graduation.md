@@ -5,7 +5,8 @@ permalink: /gallery/2024-02-MS-Graduation/
 ---
 
 <div class="photo-container">
-  <img src="/assets/gallery/2024_02_MS_Graduation/001.jpg" alt="Workshop Photo 1">
+    <img src="/assets/gallery/2024_02_MS_Graduation/001.jpg" alt="Workshop Photo 1">
+    <img src="/assets/gallery/2024_02_MS_Graduation/002.jpg" alt="Workshop Photo 2">
 </div>
 
 <style>
