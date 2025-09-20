@@ -6,9 +6,21 @@ nav: true
 nav_order: 8
 ---
 
+<h2><strong>Samsung Electronics</strong></h2>
 <div class="gallery-list">
+  <div class="gallery-item">
+    <a href="{{ '/gallery/2024-03-SVP/' | relative_url }}">
+      <img src="/assets/gallery/2024_03_SVP/001.jpg" alt="2024.03 SVP in Samsung Electronics, South Korea">
+      <h3>2024.03 SVP in Samsung Electronics, South Korea</h3>
+      <p>2024.03</p>
+    </a>
+  </div>
+</div>
 
-  <!-- 2024.03 HPCA -->
+<hr>
+
+<h2><strong>M.S. Program (SKKU)</strong></h2>
+<div class="gallery-list">
   <div class="gallery-item">
     <a href="{{ '/gallery/2024-03-HPCA/' | relative_url }}">
       <img src="/assets/gallery/2024_03_HPCA/001.jpg" alt="2024.03 HPCA in Edinburgh, Scotland">
@@ -17,7 +29,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2024.02 MS Graduation -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2024-02-MS-Graduation/' | relative_url }}">
       <img src="/assets/gallery/2024_02_MS_Graduation/001.jpg" alt="2024.02 M.S. Graduation in SKKU">
@@ -26,7 +37,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2023.11 SC -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2023-11-SC/' | relative_url }}">
       <img src="/assets/gallery/2023_11_SC/001.jpg" alt="2023.11 SC in Denver, United States">
@@ -35,7 +45,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2023.11 SAIF -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2023-11-SAIF/' | relative_url }}">
       <img src="/assets/gallery/2023_11_SAIF/001.jpg" alt="2023.11 SAIF in Suwon, South Korea">
@@ -44,7 +53,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2023.02 ISSCC -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2023-02-ISSCC/' | relative_url }}">
       <img src="/assets/gallery/2023_02_ISSCC/001.jpg" alt="2023.02 ISSCC in San Francisco, United States">
@@ -53,7 +61,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2022.11 SC -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2022-11-SC/' | relative_url }}">
       <img src="/assets/gallery/2022_11_SC/001.jpg" alt="2022.11 SC in Dallas, United States">
@@ -62,7 +69,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2022.10 ISOCC -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2022-10-ISOCC/' | relative_url }}">
       <img src="/assets/gallery/2022_10_ISOCC/001.jpg" alt="2022.10 ISOCC in Gangneung, South Korea">
@@ -71,7 +77,6 @@ nav_order: 8
     </a>
   </div>
 
-  <!-- 2022.07 DAC -->
   <div class="gallery-item">
     <a href="{{ '/gallery/2022-07-DAC/' | relative_url }}">
       <img src="/assets/gallery/2022_07_DAC/001.jpg" alt="2022.07 DAC in San Francisco, United States">
@@ -79,7 +84,6 @@ nav_order: 8
       <p>2022.07</p>
     </a>
   </div>
-
 </div>
 
 <style>

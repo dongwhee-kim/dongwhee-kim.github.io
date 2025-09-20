@@ -145,7 +145,7 @@ organization={IEEE}
   <a href="https://raw.githubusercontent.com/dongwhee-kim/dongwhee-kim.github.io/main/assets/pdf/SAIF23_Unity-ECC_Poster.pdf" download>
     <img src="https://img.shields.io/badge/Poster-Click%20Here-228B22" alt="POSTER">
   </a>
-  <a href="https://github.com/dongwhee-kim/ECC-exercise/tree/main/02_Application/02_DDR5_ODECC_RLECC">
+  <a href="https://github.com/scalable-arch/SC_23-Unity-ECC">
     <img src="https://img.shields.io/badge/Code-Click%20Here-blue" alt="CODE">
   </a>
   <a href="https://research.nvidia.com/publication/2023-11_unity-ecc-unified-memory-protection-against-bit-and-chip-errors">
