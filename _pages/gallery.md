@@ -6,6 +6,18 @@ nav: true
 nav_order: 8
 ---
 
+<h2><strong>Ph.D. Program (UT Austin)</strong></h2>
+<div class="gallery-list">
+  <div class="gallery-item">
+    <a href="{{ '/gallery/2025-08-PhD-Start/' | relative_url }}">
+      <img src="/assets/gallery/2025_08_PhD_Start/001.jpg" alt="2025.08 Ph.D. Start at UT Austin">
+      <h3>2025.08 Ph.D. Start at UT Austin</h3>
+      <p>2025.08</p>
+    </a>
+  </div>
+
+</div>
+
 <h2><strong>Samsung Electronics</strong></h2>
 <div class="gallery-list">
   <div class="gallery-item">
