@@ -21,6 +21,11 @@ h1 {
 - Study the fundamentals of Error Correcting Codes through practical experimentation and develop experimental methodologies to evaluate the reliability of memory systems based on these principles.
 - [![Code](https://img.shields.io/badge/Code-Click%20Here-blue)](https://github.com/dongwhee-kim/ECC-exercise)
 
+## **DRAM-exercise**
+
+- Understand the DRAM Basics (organization, operation, timing parameters, refresh, rowhammer, etc)
+- [![Code](https://img.shields.io/badge/GitHub-Click%20Here-red)](https://github.com/scalable-arch/DRAM-exercise/tree/main)
+
 <!-- description: Materials for courses you taught. Replace this text with your description. -->
 
 ---
