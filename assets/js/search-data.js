@@ -417,6 +417,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-begin-my-ph-d-program-in-electrical-and-computer-engineering-ece-at-ut-austin",
           title: 'I begin my Ph.D. program in Electrical and Computer Engineering (ECE) at UT...',
           description: "",
+          section: "News",},{id: "news-jungrae-kim-and-dongwhee-kim-s-patent-code-generation-method-error-correction-code-generation-apparatus-and-storage-medium-storing-instructions-to-perform-code-generation-method-has-been-granted-by-the-u-s-patent-and-trademark-office-uspto",
+          title: 'Jungrae Kim and Dongwhee Kim’s patent, ‘Code generation method, error correction code generation...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
