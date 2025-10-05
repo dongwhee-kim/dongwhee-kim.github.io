@@ -310,7 +310,6 @@ organization={IEEE}
   </a>
 </div>
 
-
 - **METHOD AND APPARATUS FOR GENERATING CODE FOR SINGLE SYMBOL ERROR CORRECTION AND DOUBLE ERROR CORRECTION**<br>
   Jungrae Kim and **Dongwhee Kim**<br>
   KR Patent Registration (10-2656075), Apr. 2024<br>
@@ -321,4 +320,3 @@ organization={IEEE}
     <img src="https://img.shields.io/badge/PATENT-Click%20Here-800080" alt="PATENT">
   </a>
 </div>
-
