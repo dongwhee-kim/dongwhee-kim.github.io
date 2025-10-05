@@ -299,6 +299,18 @@ organization={IEEE}
 
 ## **Patents**
 
+- **CODE GENERATION METHOD, ERROR CORRECTION CODE GENERATION APPARATUS, AND STORAGE MEDIUM STORING INSTRUCTIONS TO PERFORM CODE GENERATION METHOD**<br>
+  Jungrae Kim and **Dongwhee Kim**<br>
+  US Patent Registration (12,413,247), Sep. 2025<br>
+
+<div style="margin-left: 2em;">
+
+  <a href="https://patents.google.com/patent/US12413247B2/en">
+    <img src="https://img.shields.io/badge/PATENT-Click%20Here-800080" alt="PATENT">
+  </a>
+</div>
+
+
 - **METHOD AND APPARATUS FOR GENERATING CODE FOR SINGLE SYMBOL ERROR CORRECTION AND DOUBLE ERROR CORRECTION**<br>
   Jungrae Kim and **Dongwhee Kim**<br>
   KR Patent Registration (10-2656075), Apr. 2024<br>
@@ -310,6 +322,3 @@ organization={IEEE}
   </a>
 </div>
 
-- **CODE GENERATION METHOD, ERROR CORRECTION CODE GENERATION APPARATUS, AND STORAGE MEDIUM STORING INSTRUCTIONS TO PERFORM CODE GENERATION METHOD (Pending)**<br>
-  Jungrae Kim and **Dongwhee Kim**<br>
-  US Patent Application (18/506,336), Nov. 2023<br>
