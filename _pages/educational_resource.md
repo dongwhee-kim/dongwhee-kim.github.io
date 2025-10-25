@@ -15,6 +15,12 @@ h1 {
 
 <!-- _pages/educational-resource.md -->
 
+## **Quantum Error Correction (QEC) Exercise**
+
+- Continue to update
+- Study the fundamentals of Quantum Error Correction (e.g., Reptition Code, Surface Code).
+- [![Code](https://img.shields.io/badge/Code-Click%20Here-blue)](https://github.com/dongwhee-kim/QEC_Exercise)
+
 ## **ECC-ExerSim (Error-Correcting Code Exercise and Simulator)**
 
 - Korea Copyright Commission, No. C-2023-043210
