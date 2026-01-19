@@ -37,20 +37,22 @@ Prior to joining UT Austin, I worked as an HBM I/O Circuit Design Engineer at Sa
 **I have also attached the CV I used when applying for Ph.D. programs-feel free to take a look if it might be of interest.**
 
 <style>
-  /* Adjust profile image size and layout */
-  .about .profile {
-    width: 40% !important;         /* Set width relative to container (increase if needed) */
-    max-width: 500px !important;   /* Increase max-width to allow larger images */
-    margin-right: 50px !important; /* Add right margin to push text away so it doesn't overlap */
-    float: left !important;        /* Ensure the image stays on the left */
+  /* 앞에 .about을 빼고 직접 .profile을 찾습니다 */
+  .profile {
+    width: 45% !important;         /* 이미지 영역 너비 (45%로 대폭 확대) */
+    max-width: none !important;    /* 너비 제한 해제 */
+    margin-right: 50px !important; /* 글자와의 간격 벌리기 */
   }
 
-  /* Reset styles for mobile screens to prevent layout issues */
-  @media (max-width: 768px) {
-    .about .profile {
-      width: 100% !important;
-      float: none !important;      /* Stack image and text vertically on small screens */
-      margin-right: 0 !important;
-    }
+  /* 이미지 자체도 꽉 차게 강제 설정 */
+  .profile img {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 300px !important; /* 최소 크기 보장 */
+  }
+
+  /* (테스트용) 빨간 테두리: 이게 보이면 코드는 먹히는데 크기 조절만 실패한 것입니다 */
+  .profile {
+    border: 2px solid red; 
   }
 </style>
