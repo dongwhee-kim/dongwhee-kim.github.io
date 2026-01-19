@@ -28,3 +28,8 @@ $max-content-width: {{ site.max_width }};
   max-width: 400px !important;
   width: 30% !important;        /* Ratio on the screen */
 }
+
+.about .profile .more-info p {
+  margin-bottom: 10px !important; /* line margin 10px */
+  line-height: 1.6 !important;    /* set line height 1.6x */
+}
