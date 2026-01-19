@@ -39,7 +39,7 @@ Prior to joining UT Austin, I worked as an HBM I/O Circuit Design Engineer at Sa
 <style>
   /* Profile Image Styling */
   .profile {
-    width: 30% !important;         /* Reduced width to give more space for text (Try 25% or 35% if needed) */
+    width: 35% !important;         /* Reduced width to give more space for text (Try 25% or 35% if needed) */
     max-width: 350px !important;   /* Limits the maximum size of the image */
     margin-right: 40px !important; /* Spacing between image and text */
     float: left !important;        /* Keeps the image aligned to the left */
