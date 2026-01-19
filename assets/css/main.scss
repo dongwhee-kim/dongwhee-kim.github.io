@@ -23,23 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-/* Adjust profile image size and spacing */
-.about .profile {
-  /* 1. Increase the width of the image area */
-  width: 35% !important; 
-  max-width: 450px !important; 
-  
-  /* 2. Add margin to push the text to the right */
-  margin-right: 40px !important; 
-  margin-bottom: 20px !important; /* Spacing below the image */
-}
-
-/* Adjust for mobile screens */
-@media (max-width: 768px) {
-  .about .profile {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-right: 0 !important;
-    float: none !important; /* Stack text below the image on mobile */
-  }
-}

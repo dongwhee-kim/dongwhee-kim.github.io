@@ -35,3 +35,22 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 Prior to joining UT Austin, I worked as an HBM I/O Circuit Design Engineer at Samsung Electronics and obtained both my B.S. and M.S. degrees from Sungkyunkwan University in South Korea (Advisor: [Prof. Jungrae Kim](https://scalable-arch.github.io)).
 
 **I have also attached the CV I used when applying for Ph.D. programs-feel free to take a look if it might be of interest.**
+
+<style>
+  /* Adjust profile image size and layout */
+  .about .profile {
+    width: 40% !important;         /* Set width relative to container (increase if needed) */
+    max-width: 500px !important;   /* Increase max-width to allow larger images */
+    margin-right: 50px !important; /* Add right margin to push text away so it doesn't overlap */
+    float: left !important;        /* Ensure the image stays on the left */
+  }
+
+  /* Reset styles for mobile screens to prevent layout issues */
+  @media (max-width: 768px) {
+    .about .profile {
+      width: 100% !important;
+      float: none !important;      /* Stack image and text vertically on small screens */
+      margin-right: 0 !important;
+    }
+  }
+</style>
