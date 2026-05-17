@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "APT: Architecture Performance across Topologies," has been accepted to the YArch'26 workshop (in conjunction with ISCA'26)!
+Our paper, "APT: Architecture Performance across Topologies," has been accepted to the YArch'26 (in conjunction with ISCA'26)!
