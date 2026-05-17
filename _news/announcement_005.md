@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Jungrae Kim and Dongwhee Kim's patent, 'Code generation method, error correction code generation apparatus, and storage medium storing instructions to perform code generation method,' has been granted by the U.S. Patent and Trademark Office (USPTO). Congratulations!
+Our patent, "Code generation method, error correction code generation apparatus, and storage medium storing instructions to perform code generation method," has been granted by the U.S. Patent and Trademark Office (USPTO)!

@@ -16,6 +16,13 @@ h1 {
 
 ## **Conference & Journal Papers**
 
+### 2026
+
+- **APT: Architecture Performance across Topologies**<br>
+  **Dongwhee Kim** and Poulami Das<br>
+  The Young Architect Workshop (YArch), in conjunction with the IEEE/ACM International Symposium on Computer Architecture (**ISCA**), June. 2026 (Poster)<br>
+
+<br>
 ### 2025
 
 - **PoP-ECC: Robust and Flexible Error Correction against Multi-Bit Upsets in DNN Accelerators**<br>
@@ -125,7 +132,7 @@ organization={IEEE}
 - **Unity ECC: Unified Memory Protection Against Bit and Chip Errors**<br>
   **Dongwhee Kim**, Jaeyoon Lee, Wonyeong Jung, Michael Sullivan, and Jungrae Kim<br>
   The International Conference on High Performance Computing, Networking, Storage and Analysis (**SC**), acceptance rate = 24%, Nov. 2023<br>
-  <span style="color: blue; font-weight: bold;">Best Student Paper Nominee</span>
+  <span style="color: blue; font-weight: bold;">Best Student Paper Nominee, Invited to SAIF 2023, NVIDIA Research</span>
 
 <div style="margin-left: 2em;">
   <details>
@@ -159,7 +166,7 @@ organization={IEEE}
 
 - **Synergistic Integration: An Optimal Combination of On-Die and Rank-Level ECC for Enhanced Reliability**<br>
   Wonyeong Jung, **Dongwhee Kim**, and Jungrae Kim<br>
-  The 20th International SoC Conference (ISOCC), Oct. 2023<br>
+  The 20th International SoC Conference (ISOCC), Oct. 2023 (Poster)<br>
 
 <div style="margin-left: 2em;">
 
@@ -189,7 +196,7 @@ organization={IEEE}
 
 - **SCC: Efficient Error Correction Codes for MLC PCM**<br>
   Yujin Lim, **Dongwhee Kim**, and Jungrae Kim<br>
-  The 20th International SoC Conference (ISOCC), Oct. 2023<br>
+  The 20th International SoC Conference (ISOCC), Oct. 2023 (Poster)<br>
 
 <div style="margin-left: 2em;">
 
