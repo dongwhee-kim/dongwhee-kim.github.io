@@ -423,7 +423,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-patent-code-generation-method-error-correction-code-generation-apparatus-and-storage-medium-storing-instructions-to-perform-code-generation-method-has-been-granted-by-the-u-s-patent-and-trademark-office-uspto",
           title: 'Our patent, “Code generation method, error correction code generation apparatus, and storage medium...',
           description: "",
-          section: "News",},{id: "news-our-paper-apt-architecture-performance-across-topologies-has-been-accepted-to-the-yarch-26-workshop-in-conjunction-with-isca-26",
+          section: "News",},{id: "news-our-paper-apt-architecture-performance-across-topologies-has-been-accepted-to-the-yarch-26-in-conjunction-with-isca-26",
           title: 'Our paper, “APT: Architecture Performance across Topologies,” has been accepted to the YArch’26...',
           description: "",
           section: "News",},{
