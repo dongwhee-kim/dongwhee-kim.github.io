@@ -426,6 +426,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-apt-architecture-performance-across-topologies-has-been-accepted-to-the-yarch-26-in-conjunction-with-isca-26",
           title: 'Our paper, “APT: Architecture Performance across Topologies,” has been accepted to the YArch’26...',
           description: "",
+          section: "News",},{id: "news-i-have-been-selected-for-the-isca-2026-student-travel-grants",
+          title: 'I have been selected for the ISCA 2026 Student Travel Grants!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
