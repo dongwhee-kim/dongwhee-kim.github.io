@@ -9,6 +9,7 @@ permalink: /gallery/2026-06-ISCA-YArch/
     <img src="/assets/gallery/2026_06_ISCA_YArch/002.jpg" alt="Workshop Photo 2">
     <img src="/assets/gallery/2026_06_ISCA_YArch/003.jpg" alt="Workshop Photo 3">
     <img src="/assets/gallery/2026_06_ISCA_YArch/004.jpg" alt="Workshop Photo 4">
+    <img src="/assets/gallery/2026_06_ISCA_YArch/005.jpg" alt="Workshop Photo 5">
 </div>
 
 <style>
