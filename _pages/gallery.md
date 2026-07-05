@@ -10,8 +10,8 @@ nav_order: 8
 <div class="gallery-list">
   <div class="gallery-item">
     <a href="{{ '/gallery/2026-06-ISCA-YArch/' | relative_url }}">
-      <img src="/assets/gallery/2026_06_ISCA_YArch/001.jpg" alt="2026.06 ISCA YArch">
-      <h3>2026.06 ISCA (YArch)</h3>
+      <img src="/assets/gallery/2026_06_ISCA_YArch/001.jpg" alt="2026.06 ISCA YArch in Raleigh, United States">
+      <h3>2026.06 ISCA (YArch) in Raleigh, United States</h3>
       <p>2026.06</p>
     </a>
   </div>
