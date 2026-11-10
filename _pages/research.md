@@ -18,6 +18,29 @@ h1 {
 
 ### 2026
 
+- **DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs**<br>
+  **Dongwhee Kim**, Suhas Vittal, and Poulami Das<br>
+  arXiv preprint, Nov. 2026<br>
+<div style="margin-left: 2em;">
+
+  <details>
+    <summary>📄 BIB</summary>
+    <pre><code>@article{kim2026dynamite,
+  
+title={DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs},
+author={Kim, Dongwhee and Vittal, Suhas and Das, Poulami},
+journal={arXiv preprint arXiv:2611.05233},
+year={2026}
+}</code></pre>
+
+  </details>
+
+  <a href="https://arxiv.org/abs/2611.05233">
+    <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
+  </a>
+
+</div>
+
 - **APT: Architecture Performance across Topologies**<br>
   **Dongwhee Kim** and Poulami Das<br>
   The Young Architect Workshop (YArch), in conjunction with the IEEE/ACM International Symposium on Computer Architecture (**ISCA**), June. 2026 (Poster)<br>
