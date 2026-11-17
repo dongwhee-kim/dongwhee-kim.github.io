@@ -21,12 +21,13 @@ h1 {
 - **DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs**<br>
   **Dongwhee Kim**, Suhas Vittal, and Poulami Das<br>
   arXiv preprint, Nov. 2026<br>
-<div style="margin-left: 2em;">
+  <div style="margin-left: 2em;">
 
-  <details>
-    <summary>📄 BIB</summary>
-    <pre><code>@article{kim2026dynamite,
-  
+    <details>
+      <summary>📄 BIB</summary>
+      <pre><code>@article{kim2026dynamite,
+
+
 title={DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs},
 author={Kim, Dongwhee and Vittal, Suhas and Das, Poulami},
 journal={arXiv preprint arXiv:2611.05233},
