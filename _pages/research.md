@@ -23,7 +23,7 @@ h1 {
   arXiv preprint, Nov. 2026<br>
   <div style="margin-left: 2em;">
 
-    <details>
+   <details>
       <summary>📄 BIB</summary>
       <pre><code>@article{kim2026dynamite,
 
