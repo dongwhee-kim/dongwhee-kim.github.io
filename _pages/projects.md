@@ -15,7 +15,13 @@ h1 {
 
 <!-- _pages/projects.md -->
 
-## **The University of Texas at Austin (Updated later)**
+## **The University of Texas at Austin**
+
+**[Graduate Research Assistant] Accelerating Fault-Tolerant Quantum Logic (FTL), Jun. 2026 – Present**
+
+- Co-designing quantum error-correcting codes, trapped-ion hardware, and the software stack toward a 60-logical-qubit fault-tolerant quantum computer.
+- Keywords: Fault-Tolerant Quantum Computing, Quantum Error Correction, Trapped-Ion QCCD Architecture, Hardware-Software Co-Design.
+- Funded by National Science Foundation, National Quantum Virtual Laboratory (**NSF** NQVL, [2547483](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2547483))
 
 <br>
 ## **Samsung Electronics**
