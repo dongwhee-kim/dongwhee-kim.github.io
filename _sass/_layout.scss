@@ -27,9 +27,10 @@ body.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
+/* 2026-11-20: widened desktop content from 50vw to 65vw (old rules kept for reference)
 .container {
   width: 50vw !important; // Added
-  max-width: 50vw !important; /* default: 70% */
+  max-width: 50vw !important; // default: 70%
   margin-left: auto; // Added
   margin-right: auto; // Added
 
@@ -38,9 +39,43 @@ body.sticky-bottom-footer {
     width: 90vw !important;
     max-width: 90vw !important;
   }
-  /*
-  max-width: $max-content-width;
-  */
+  // max-width: $max-content-width;
+}
+*/
+.container {
+  // desktop (>= 1200px): 65% of the screen width
+  width: 65vw !important;
+  max-width: 65vw !important;
+  margin-left: auto;
+  margin-right: auto;
+
+  // tablet / small windows (navbar is collapsed into the hamburger menu here)
+  @media (max-width: 1199.98px) {
+    width: 80vw !important;
+    max-width: 80vw !important;
+  }
+
+  // mobile width
+  @media (max-width: 768px) {
+    width: 90vw !important;
+    max-width: 90vw !important;
+  }
+}
+
+// 2026-11-20: keep every menu label on ONE line.
+// The full menu needs ~1000px, so on desktop the navbar gets at least 1140px even when
+// 65vw is narrower than that (e.g. 1280-1700px wide laptops). Below 1200px the navbar
+// collapses into the hamburger menu (navbar-expand-xl in _includes/header.liquid).
+// If more menus are added and they no longer fit, raise min-width or shorten the titles.
+.navbar .navbar-nav .nav-link {
+  white-space: nowrap;
+}
+
+@media (min-width: 1200px) {
+  .navbar > .container {
+    min-width: 1140px;
+    max-width: 95vw !important;
+  }
 }
 
 // Profile
