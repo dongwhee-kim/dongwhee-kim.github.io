@@ -21,25 +21,27 @@ h1 {
 - **DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs**<br>
   **Dongwhee Kim**, Suhas Vittal, and Poulami Das<br>
   arXiv preprint, Nov. 2026<br>
-  <div style="margin-left: 2em;">
 
-   <details>
-      <summary>📄 BIB</summary>
-      <pre><code>@article{kim2026dynamite,
-
-
-title={DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs},
-author={Kim, Dongwhee and Vittal, Suhas and Das, Poulami},
-journal={arXiv preprint arXiv:2611.05233},
-year={2026}
-}</code></pre>
-
+{% comment %}
+2026-11-20 fix: the BIB block used to be indented inside the list item with blank lines
+inside <pre>, so kramdown closed the list item / HTML block early and the BibTeX rendered
+broken. The <div> must start at column 0 after a blank line, like the other entries.
+{% endcomment %}
+<div style="margin-left: 2em;">
+  <details>
+    <summary>📄 BIB</summary>
+    <pre><code>@article{kim2026dynamite,
+  title={DynaMite: Dynamic Measurement Scheduling To Accelerate Fault-Tolerant Quantum Programs},
+  author={Kim, Dongwhee and Vittal, Suhas and Das, Poulami},
+  journal={arXiv preprint arXiv:2611.05233},
+  year={2026}
+}
+</code></pre>
   </details>
 
   <a href="https://arxiv.org/abs/2611.05233">
     <img src="https://img.shields.io/badge/PDF-Click%20Here-red" alt="PDF">
   </a>
-
 </div>
 
 - **APT: Architecture Performance across Topologies**<br>

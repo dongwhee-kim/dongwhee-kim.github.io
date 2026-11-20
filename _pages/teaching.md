@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Teaching/
-title: Teaching
+title: Teaching and Service
 <!-- description: Materials for courses you taught. Replace this text with your description. -->
 
 nav: true
@@ -17,13 +17,23 @@ h1 {
 
 <!-- _pages/teaching.md -->
 
-## **The University of Texas at Austin**
+## **Teaching**
+
+### The University of Texas at Austin
 
 - **Update later**
 
-## **Sungkyunkwan University**
+### Sungkyunkwan University
 
 - Digital System Design (Spring 2022) [SSE3016-41]
 - AI Basics & Uses (Spring 2021) [GEDT020-I1]
 
 ---
+
+<br>
+
+## **Professional Service**
+
+### Journal Reviewer
+
+- IEEE Transactions on Computers (TC), 2026
